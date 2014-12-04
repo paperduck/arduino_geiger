@@ -1,0 +1,3 @@
+Project file for Arduino Uno.
+
+This project uses the photo sensor and temperature sensor to create a chirping effect similar to a geiger counter.
